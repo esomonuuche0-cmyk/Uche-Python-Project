@@ -171,6 +171,3 @@ data["warehouse_region"] = (
 | Data age at delivery | 3 to 4 days | Same day, refreshed each morning |
 | Cleaning consistency | Dependent on the analyst | Identical rules every run |
 | Auditability | None | Timestamped logs of every run and every dropped row |
-
-*The "after" figures are targets. They depend on completing the fixes in section 6 and configuring scheduling and Power BI refresh.*# Uche-Python-Project
-The intended objective is to automate ingestion of raw CSVs into a cleaned, standardized dataset and a growing master file, with logging and duplicate-run protection.
