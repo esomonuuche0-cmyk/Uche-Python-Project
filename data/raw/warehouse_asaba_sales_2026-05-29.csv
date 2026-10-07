@@ -1,0 +1,14 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+2026-05-29,Asaba ,SKU-013,Dettol Antiseptic 500ml,Household,23.0,1893.24,286.0
+2026-05-29,Asaba ,SKU-012,Sunlight Dishwashing Liquid 900ml,Household,29.0,1554.31,258.0
+2026-05-29,Asaba ,SKU-001,Golden Penny Semovita 1kg,Packaged Foods,12.0,1455.82,18.0
+2026-05-29,asaba,SKU-005,Peak Milk Tin 400g,Beverages,19.0,1274.89,267.0
+2026-05-29,ASABA,SKU-017,Always Ultra Pads (Pack of 8),Personal Care,18.0,1349.42,297.0
+2026-05-29,Asaba,SKU-018,Nivea Body Lotion 400ml,Personal Care,23.0,3057.04,19.0
+2026-05-29,asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,11.0,11591.14,54.0
+2026-05-29,Asaba,SKU-011,Omo Detergent 900g,Household,13.0,2473.57,378.0
+2026-05-29,ASABA,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,13.0,8549.34,192.0
+2026-05-29,Asaba,SKU-008,Nasco Corn Flakes 500g,Packaged Foods,19.0,2112.57,361.0
+2026-05-29,asaba,SKU-014,Ariel Detergent 900g,Household,18.0,2668.75,
+2026-05-29,ASABA,SKU-021,Honeywell Semolina 1kg,Packaged Foods,15.0,1382.46,305.0
+2026-05-29,ASABA,SKU-022,Mama Gold Rice 5kg,Packaged Foods,16.0,6817.9,373.0

@@ -1,0 +1,21 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+31-May-2026,Onitsha  ,sku_001,Golden Penny Semovita 1kg,Packaged Foods,19.0,1502.81,256.0
+31-May-2026,onitsha,sku_002,Dangote Sugar 1kg,Packaged Foods,16.0,940.75,10.0
+31-May-2026,onitsha,sku_015,Close-Up Toothpaste 140g,Personal Care,,886.04,140.0
+31-May-2026,ONITSHA,sku_009,Kings Vegetable Oil 5L,Packaged Foods,13.0,11361.51,185.0
+31-May-2026,Onitsha,sku_005,Peak Milk Tin 400g,Beverages,18.0,1363.34,290.0
+31-May-2026,Onitsha,sku_004,Milo Refill 400g,Beverages,23.0,2639.47,1.0
+31-May-2026,Onitsha,sku_024, HYPO BLEACH 750ML ,Household,11.0,933.19,0.0
+31-May-2026,onitsha,sku_020,Lipton Yellow Label Tea (100 bags),Beverages,17.0,2334.64,60.0
+31-May-2026,Onitsha  ,sku_014,Ariel Detergent 900g,Household,14.0,2685.71,205.0
+31-May-2026,onitsha,sku_019,Cowbell Milk Powder 400g,Beverages,12.0,2107.33,238.0
+31-May-2026,Onitsha  ,sku_010,Devon King's Vegetable Oil 3L,Packaged Foods,15.0,7057.25,29.0
+31-May-2026,Onitsha,sku_008,Nasco Corn Flakes 500g,Packaged Foods,20.0,2194.39,312.0
+31-May-2026,Onitsha,sku_016,Dudu-Osun Black Soap (Pack of 6),Personal Care,23.0,1223.63,4.0
+31-May-2026,Onitsha,sku_003,Indomie Chicken Noodles (Carton),Packaged Foods,20.0,8112.81,312.0
+31-May-2026,ONITSHA,sku_017, ALWAYS ULTRA PADS (PACK OF 8) ,Personal Care,20.0,1397.76,156.0
+31-May-2026,Onitsha  ,sku_012, SUNLIGHT DISHWASHING LIQUID 900ML ,Household,26.0,1615.41,94.0
+31-May-2026,Onitsha,sku_013,Dettol Antiseptic 500ml,Household,25.0,1902.23,366.0
+31-May-2026,Onitsha,sku_011,Omo Detergent 900g,Household,18.0,2529.44,246.0
+31-May-2026,ONITSHA,sku_007,Bigi Cola 50cl (Pack of 12),Beverages,17.0,3936.66,6.0
+31-May-2026,onitsha,sku_021, HONEYWELL SEMOLINA 1KG ,Packaged Foods,19.0,,0.0

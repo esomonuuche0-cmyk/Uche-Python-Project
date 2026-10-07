@@ -1,0 +1,58 @@
+[2026-10-06 15:50:04] hi there
+[2026-10-06 15:52:41] hi there
+[2026-10-06 16:27:54] found 21 new file(s)
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-26.csv:  removed 5 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-27.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-28.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-29.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-30.csv:  removed 3 rows
+[2026-10-06 16:27:58] warehouse_asaba_sales_2026-05-31.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_benin_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:27:58] warehouse_benin_sales_2026-05-26.csv:  removed 1 rows
+[2026-10-06 16:27:59] warehouse_benin_sales_2026-05-27.csv:  removed 2 rows
+[2026-10-06 16:27:59] warehouse_benin_sales_2026-05-28.csv:  removed 2 rows
+[2026-10-06 16:27:59] warehouse_benin_sales_2026-05-29.csv:  removed 1 rows
+[2026-10-06 16:27:59] warehouse_benin_sales_2026-05-30.csv:  removed 0 rows
+[2026-10-06 16:27:59] warehouse_benin_sales_2026-05-31.csv:  removed 4 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-26.csv:  removed 1 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-27.csv:  removed 3 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-28.csv:  removed 0 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-29.csv:  removed 2 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-30.csv:  removed 2 rows
+[2026-10-06 16:27:59] warehouse_onitsha_sales_2026-05-31.csv:  removed 2 rows
+[2026-10-06 16:42:25] Master dataset does not exists. Creating it
+[2026-10-06 16:42:25] we removed 9 duplicate rows
+[2026-10-06 16:42:25] Master dataset saved
+[2026-10-06 16:42:55] Existing master records: 309
+[2026-10-06 16:42:55] we removed 9 duplicate rows
+[2026-10-06 16:42:55] Master dataset saved
+[2026-10-06 16:55:48] found 21 new file(s)
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-26.csv:  removed 5 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-27.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-28.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-29.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-30.csv:  removed 3 rows
+[2026-10-06 16:55:49] warehouse_asaba_sales_2026-05-31.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-26.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-27.csv:  removed 2 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-28.csv:  removed 2 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-29.csv:  removed 1 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-30.csv:  removed 0 rows
+[2026-10-06 16:55:49] warehouse_benin_sales_2026-05-31.csv:  removed 4 rows
+[2026-10-06 16:55:49] warehouse_onitsha_sales_2026-05-25.csv:  removed 1 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-26.csv:  removed 1 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-27.csv:  removed 3 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-28.csv:  removed 0 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-29.csv:  removed 2 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-30.csv:  removed 2 rows
+[2026-10-06 16:55:50] warehouse_onitsha_sales_2026-05-31.csv:  removed 2 rows
+[2026-10-06 16:55:50] Cleaned data has been Saved
+[2026-10-06 16:55:51] Existing master records: 618
+[2026-10-06 16:55:51] we removed 9 duplicate rows
+[2026-10-06 16:55:51] Master dataset saved
+[2026-10-06 16:55:52] Clean pipe completed successfully
+[2026-10-06 16:55:52] Total master records:  927

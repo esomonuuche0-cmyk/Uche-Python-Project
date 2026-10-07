@@ -1,0 +1,23 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+2026-05-25,Asaba,SKU-005,Peak Milk Tin 400g,Beverages,20.0,1292.48,44.0
+2026-05-25,Asaba,SKU-015,Close-Up Toothpaste 140g,Personal Care,22.0,856.06,287.0
+2026-05-25,Asaba,SKU-013,Dettol Antiseptic 500ml,Household,20.0,1961.77,111.0
+2026-05-25,ASABA,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,,11610.02,312.0
+2026-05-25,Asaba,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,24.0,3879.54,178.0
+2026-05-25,ASABA,SKU-002,Dangote Sugar 1kg,Packaged Foods,18.0,943.8,88.0
+2026-05-25,asaba,SKU-025,Maggi Cubes (Pack of 50),Packaged Foods,23.0,1863.07,93.0
+2026-05-25,asaba,SKU-012, SUNLIGHT DISHWASHING LIQUID 900ML ,Household,19.0,1619.76,310.0
+2026-05-25,asaba,SKU-017,Always Ultra Pads (Pack of 8),Personal Care,22.0,1354.29,110.0
+2026-05-25,ASABA,SKU-016,Dudu-Osun Black Soap (Pack of 6),Personal Care,21.0,1224.1,63.0
+2026-05-25,asaba,SKU-021,Honeywell Semolina 1kg,Packaged Foods,16.0,1440.87,124.0
+2026-05-25,asaba,SKU-010,Devon King's Vegetable Oil 3L,Packaged Foods,24.0,7338.88,340.0
+2026-05-25,ASABA,SKU-011,Omo Detergent 900g,Household,20.0,2493.81,61.0
+2026-05-25,ASABA,SKU-020,Lipton Yellow Label Tea (100 bags),Beverages,16.0,2274.94,250.0
+2026-05-25,ASABA,SKU-004, MILO REFILL 400G ,Beverages,22.0,2642.07,356.0
+2026-05-25,ASABA,SKU-018,Nivea Body Lotion 400ml,Personal Care,16.0,3003.88,299.0
+2026-05-25,Asaba,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,24.0,3879.54,178.0
+2026-05-25,ASABA,SKU-008,Nasco Corn Flakes 500g,Packaged Foods,17.0,2169.83,55.0
+2026-05-25,Asaba,SKU-006,Coca-Cola PET 50cl (Pack of 12),Beverages,18.0,4811.83,324.0
+2026-05-25,asaba,SKU-014,Ariel Detergent 900g,Household,19.0,2660.07,204.0
+2026-05-25,Asaba,SKU-022, MAMA GOLD RICE 5KG ,Packaged Foods,17.0,6527.43,282.0
+2026-05-25,ASABA,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,12.0,11280.42,179.0

@@ -1,0 +1,17 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+03/06/2026,Benin City,SKU024, HYPO BLEACH 750ML ,Household,16.0,914.1,52.0
+03/06/2026,benin city,SKU005,Peak Milk Tin 400g,Beverages,17.0,1308.39,308.0
+03/06/2026,benin city,SKU015,Close-Up Toothpaste 140g,Personal Care,20.0,844.68,325.0
+03/06/2026,Benin,SKU018,Nivea Body Lotion 400ml,Personal Care,21.0,2931.16,50.0
+03/06/2026,Benin City,SKU016,Dudu-Osun Black Soap (Pack of 6),Personal Care,18.0,1219.06,366.0
+03/06/2026,Benin City,SKU010,Devon King's Vegetable Oil 3L,Packaged Foods,16.0,7162.15,
+03/06/2026,Benin City,SKU025,Maggi Cubes (Pack of 50),Packaged Foods,18.0,1887.41,339.0
+03/06/2026,BENIN,SKU012,Sunlight Dishwashing Liquid 900ml,Household,12.0,1520.78,336.0
+03/06/2026,BENIN,SKU001,Golden Penny Semovita 1kg,Packaged Foods,23.0,1441.78,15.0
+03/06/2026,Benin City,SKU017,Always Ultra Pads (Pack of 8),Personal Care,16.0,1396.55,324.0
+03/06/2026,Benin City,SKU003,Indomie Chicken Noodles (Carton),Packaged Foods,14.0,8223.43,305.0
+03/06/2026,BENIN,SKU021,Honeywell Semolina 1kg,Packaged Foods,23.0,1404.0,206.0
+03/06/2026,Benin City,SKU007,Bigi Cola 50cl (Pack of 12),Beverages,25.0,,165.0
+03/06/2026,Benin,SKU011,Omo Detergent 900g,Household,20.0,2410.11,78.0
+03/06/2026,BENIN,SKU014,Ariel Detergent 900g,Household,26.0,2743.14,49.0
+03/06/2026,Benin,SKU013,Dettol Antiseptic 500ml,Household,17.0,1983.71,131.0

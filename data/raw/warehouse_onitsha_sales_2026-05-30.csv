@@ -1,0 +1,24 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+30-May-2026,Onitsha  ,sku_014,Ariel Detergent 900g,Household,18.0,2742.28,202.0
+30-May-2026,ONITSHA,sku_021,Honeywell Semolina 1kg,Packaged Foods,20.0,1386.98,0.0
+30-May-2026,onitsha,sku_015,Close-Up Toothpaste 140g,Personal Care,18.0,836.42,216.0
+30-May-2026,Onitsha  ,sku_005,Peak Milk Tin 400g,Beverages,23.0,1304.08,43.0
+30-May-2026,Onitsha,sku_004,Milo Refill 400g,Beverages,17.0,2714.42,93.0
+30-May-2026,Onitsha  ,sku_011, OMO DETERGENT 900G ,Household,14.0,2443.04,347.0
+30-May-2026,ONITSHA,sku_003,Indomie Chicken Noodles (Carton),Packaged Foods,17.0,8468.24,112.0
+30-May-2026,Onitsha  ,sku_017,Always Ultra Pads (Pack of 8),Personal Care,21.0,,286.0
+30-May-2026,Onitsha,sku_019,Cowbell Milk Powder 400g,Beverages,20.0,2114.6,371.0
+30-May-2026,onitsha,sku_023,Power Oil Vegetable Oil 4.5L,Packaged Foods,21.0,11191.81,227.0
+30-May-2026,onitsha,sku_009,Kings Vegetable Oil 5L,Packaged Foods,22.0,11682.72,30.0
+30-May-2026,Onitsha,sku_022,Mama Gold Rice 5kg,Packaged Foods,11.0,6430.25,322.0
+30-May-2026,Onitsha  ,sku_018,Nivea Body Lotion 400ml,Personal Care,24.0,3070.24,333.0
+30-May-2026,ONITSHA,sku_020,Lipton Yellow Label Tea (100 bags),Beverages,14.0,2310.68,289.0
+30-May-2026,ONITSHA,sku_001, GOLDEN PENNY SEMOVITA 1KG ,Packaged Foods,15.0,1502.37,38.0
+30-May-2026,Onitsha,sku_007, BIGI COLA 50CL (PACK OF 12) ,Beverages,21.0,3964.99,136.0
+30-May-2026,Onitsha,sku_024,Hypo Bleach 750ml,Household,15.0,943.08,280.0
+30-May-2026,onitsha,sku_008,Nasco Corn Flakes 500g,Packaged Foods,22.0,2157.49,341.0
+30-May-2026,onitsha,sku_025,Maggi Cubes (Pack of 50),Packaged Foods,12.0,1872.56,34.0
+30-May-2026,ONITSHA,sku_016,Dudu-Osun Black Soap (Pack of 6),Personal Care,17.0,1207.09,273.0
+30-May-2026,onitsha,sku_010,Devon King's Vegetable Oil 3L,Packaged Foods,13.0,7273.83,74.0
+30-May-2026,Onitsha  ,sku_006, COCA-COLA PET 50CL (PACK OF 12) ,Beverages,21.0,4964.58,239.0
+30-May-2026,Onitsha,sku_002,Dangote Sugar 1kg,Packaged Foods,,975.42,172.0

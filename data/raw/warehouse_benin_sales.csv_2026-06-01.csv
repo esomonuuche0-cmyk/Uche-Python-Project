@@ -1,0 +1,24 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+01/06/2026,BENIN,SKU019,Cowbell Milk Powder 400g,Beverages,18.0,2042.32,98.0
+01/06/2026,BENIN,SKU015,Close-Up Toothpaste 140g,Personal Care,15.0,882.95,255.0
+01/06/2026,Benin City,SKU001,Golden Penny Semovita 1kg,Packaged Foods,15.0,1436.4,211.0
+01/06/2026,benin city,SKU012,Sunlight Dishwashing Liquid 900ml,Household,16.0,1523.33,145.0
+01/06/2026,benin city,SKU014, ARIEL DETERGENT 900G ,Household,17.0,2782.6,201.0
+01/06/2026,BENIN,SKU003,Indomie Chicken Noodles (Carton),Packaged Foods,,8466.9,142.0
+01/06/2026,Benin City,SKU013,Dettol Antiseptic 500ml,Household,10.0,1933.19,303.0
+01/06/2026,Benin City,SKU006,Coca-Cola PET 50cl (Pack of 12),Beverages,18.0,4921.55,0.0
+01/06/2026,Benin,SKU022,Mama Gold Rice 5kg,Packaged Foods,11.0,6546.03,129.0
+01/06/2026,benin city,SKU020,Lipton Yellow Label Tea (100 bags),Beverages,17.0,2268.65,196.0
+01/06/2026,BENIN,SKU023,Power Oil Vegetable Oil 4.5L,Packaged Foods,9.0,11049.92,258.0
+01/06/2026,Benin City,SKU007,Bigi Cola 50cl (Pack of 12),Beverages,16.0,3887.71,5.0
+01/06/2026,BENIN,SKU010, DEVON KING'S VEGETABLE OIL 3L ,Packaged Foods,14.0,7151.22,295.0
+01/06/2026,Benin,SKU021, HONEYWELL SEMOLINA 1KG ,Packaged Foods,16.0,1378.89,215.0
+01/06/2026,Benin City,SKU009,Kings Vegetable Oil 5L,Packaged Foods,16.0,11608.5,279.0
+01/06/2026,Benin City,SKU005,Peak Milk Tin 400g,Beverages,18.0,1325.51,250.0
+01/06/2026,BENIN,SKU002,Dangote Sugar 1kg,Packaged Foods,14.0,,243.0
+01/06/2026,Benin City,SKU008,Nasco Corn Flakes 500g,Packaged Foods,20.0,2195.32,311.0
+01/06/2026,Benin City,SKU017,Always Ultra Pads (Pack of 8),Personal Care,21.0,1387.83,189.0
+01/06/2026,benin city,SKU025,Maggi Cubes (Pack of 50),Packaged Foods,,1799.21,151.0
+01/06/2026,BENIN,SKU016,Dudu-Osun Black Soap (Pack of 6),Personal Care,18.0,1226.21,212.0
+01/06/2026,Benin City,SKU011,Omo Detergent 900g,Household,18.0,2422.36,38.0
+01/06/2026,BENIN,SKU004,Milo Refill 400g,Beverages,24.0,2574.63,299.0

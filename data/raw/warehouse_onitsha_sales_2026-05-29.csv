@@ -1,0 +1,22 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+29-May-2026,onitsha,sku_006,Coca-Cola PET 50cl (Pack of 12),Beverages,23.0,4938.86,339.0
+29-May-2026,Onitsha,sku_024, HYPO BLEACH 750ML ,Household,,913.25,292.0
+29-May-2026,Onitsha,sku_022,Mama Gold Rice 5kg,Packaged Foods,18.0,6552.82,116.0
+29-May-2026,ONITSHA,sku_018,Nivea Body Lotion 400ml,Personal Care,15.0,3014.52,101.0
+29-May-2026,ONITSHA,sku_009,Kings Vegetable Oil 5L,Packaged Foods,17.0,11909.06,215.0
+29-May-2026,ONITSHA,sku_003,Indomie Chicken Noodles (Carton),Packaged Foods,19.0,8281.69,355.0
+29-May-2026,onitsha,sku_016,Dudu-Osun Black Soap (Pack of 6),Personal Care,13.0,1180.4,5.0
+29-May-2026,Onitsha  ,sku_008, NASCO CORN FLAKES 500G ,Packaged Foods,21.0,2072.82,203.0
+29-May-2026,ONITSHA,sku_007,Bigi Cola 50cl (Pack of 12),Beverages,10.0,3825.88,154.0
+29-May-2026,ONITSHA,sku_021,Honeywell Semolina 1kg,Packaged Foods,17.0,1459.17,0.0
+29-May-2026,Onitsha  ,sku_023,Power Oil Vegetable Oil 4.5L,Packaged Foods,24.0,10914.01,319.0
+29-May-2026,Onitsha  ,sku_019,Cowbell Milk Powder 400g,Beverages,14.0,2010.98,285.0
+29-May-2026,onitsha,sku_020,Lipton Yellow Label Tea (100 bags),Beverages,13.0,2278.91,32.0
+29-May-2026,Onitsha,sku_015, CLOSE-UP TOOTHPASTE 140G ,Personal Care,16.0,837.36,0.0
+29-May-2026,onitsha,sku_001,Golden Penny Semovita 1kg,Packaged Foods,10.0,1468.45,164.0
+29-May-2026,Onitsha,sku_005,Peak Milk Tin 400g,Beverages,29.0,,0.0
+29-May-2026,ONITSHA,sku_018,Nivea Body Lotion 400ml,Personal Care,15.0,3014.52,101.0
+29-May-2026,Onitsha,sku_012,Sunlight Dishwashing Liquid 900ml,Household,23.0,1567.59,190.0
+29-May-2026,ONITSHA,sku_011, OMO DETERGENT 900G ,Household,21.0,2450.33,65.0
+29-May-2026,Onitsha,sku_014,Ariel Detergent 900g,Household,20.0,2818.03,131.0
+29-May-2026,onitsha,sku_025, MAGGI CUBES (PACK OF 50) ,Packaged Foods,13.0,1788.33,262.0

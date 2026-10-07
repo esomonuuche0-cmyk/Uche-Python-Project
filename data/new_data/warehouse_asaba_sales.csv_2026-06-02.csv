@@ -1,0 +1,18 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+2026-06-02,ASABA,SKU-002,Dangote Sugar 1kg,Packaged Foods,21.0,996.85,
+2026-06-02,asaba,SKU-013,Dettol Antiseptic 500ml,Household,14.0,1882.75,0.0
+2026-06-02,Asaba,SKU-020,Lipton Yellow Label Tea (100 bags),Beverages,14.0,2334.6,
+2026-06-02,Asaba,SKU-017,Always Ultra Pads (Pack of 8),Personal Care,19.0,1393.43,209.0
+2026-06-02,ASABA,SKU-019,Cowbell Milk Powder 400g,Beverages,17.0,2065.45,184.0
+2026-06-02,Asaba ,SKU-022,Mama Gold Rice 5kg,Packaged Foods,17.0,6543.22,6.0
+2026-06-02,Asaba,SKU-011,Omo Detergent 900g,Household,16.0,2563.77,54.0
+2026-06-02,asaba,SKU-008,Nasco Corn Flakes 500g,Packaged Foods,22.0,2097.14,0.0
+2026-06-02,Asaba ,SKU-005,Peak Milk Tin 400g,Beverages,17.0,1305.7,
+2026-06-02,Asaba ,SKU-006,Coca-Cola PET 50cl (Pack of 12),Beverages,18.0,4931.81,197.0
+2026-06-02,Asaba ,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,18.0,4002.99,92.0
+2026-06-02,asaba,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,21.0,8419.58,378.0
+2026-06-02,Asaba,SKU-024,Hypo Bleach 750ml,Household,-13.0,931.72,298.0
+2026-06-02,Asaba,SKU-025,Maggi Cubes (Pack of 50),Packaged Foods,21.0,1857.24,187.0
+2026-06-02,asaba,SKU-018,Nivea Body Lotion 400ml,Personal Care,19.0,3093.08,37.0
+2026-06-02,asaba,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,13.0,10947.58,130.0
+2026-06-02,asaba,SKU-015,Close-Up Toothpaste 140g,Personal Care,,881.8,215.0

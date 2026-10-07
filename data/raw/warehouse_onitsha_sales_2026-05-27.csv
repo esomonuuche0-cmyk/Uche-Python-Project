@@ -1,0 +1,16 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+27-May-2026,Onitsha,sku_004,Milo Refill 400g,Beverages,17.0,2614.46,111.0
+27-May-2026,Onitsha,sku_016,Dudu-Osun Black Soap (Pack of 6),Personal Care,18.0,1226.0,0.0
+27-May-2026,Onitsha  ,sku_001,Golden Penny Semovita 1kg,Packaged Foods,17.0,1425.91,370.0
+27-May-2026,onitsha,sku_009, KINGS VEGETABLE OIL 5L ,Packaged Foods,18.0,11766.31,11.0
+27-May-2026,ONITSHA,sku_018,Nivea Body Lotion 400ml,Personal Care,15.0,3033.19,313.0
+27-May-2026,Onitsha,sku_003,Indomie Chicken Noodles (Carton),Packaged Foods,20.0,8069.7,135.0
+27-May-2026,Onitsha  ,sku_013,Dettol Antiseptic 500ml,Household,10.0,1863.07,327.0
+27-May-2026,ONITSHA,sku_014,Ariel Detergent 900g,Household,16.0,2721.25,265.0
+27-May-2026,Onitsha  ,sku_008, NASCO CORN FLAKES 500G ,Packaged Foods,13.0,2119.74,
+27-May-2026,ONITSHA,sku_024,Hypo Bleach 750ml,Household,23.0,899.22,
+27-May-2026,onitsha,sku_005,Peak Milk Tin 400g,Beverages,14.0,1274.76,227.0
+27-May-2026,ONITSHA,sku_012,Sunlight Dishwashing Liquid 900ml,Household,19.0,1619.44,281.0
+27-May-2026,Onitsha  ,sku_025, MAGGI CUBES (PACK OF 50) ,Packaged Foods,22.0,1872.74,236.0
+27-May-2026,ONITSHA,sku_010,Devon King's Vegetable Oil 3L,Packaged Foods,12.0,7112.51,50.0
+27-May-2026,Onitsha  ,sku_019,Cowbell Milk Powder 400g,Beverages,20.0,2031.14,

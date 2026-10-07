@@ -1,0 +1,26 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+2026-06-06,ASABA,SKU-018,Nivea Body Lotion 400ml,Personal Care,12.0,3033.94,97.0
+2026-06-06,ASABA,SKU-008, NASCO CORN FLAKES 500G ,Packaged Foods,10.0,2096.87,190.0
+2026-06-06,ASABA,SKU-014,Ariel Detergent 900g,Household,11.0,2749.23,177.0
+2026-06-06,Asaba,SKU-004, MILO REFILL 400G ,Beverages,16.0,2644.7,296.0
+2026-06-06,asaba,SKU-010,Devon King's Vegetable Oil 3L,Packaged Foods,17.0,7406.61,66.0
+2026-06-06,asaba,SKU-012,Sunlight Dishwashing Liquid 900ml,Household,25.0,1582.88,367.0
+2026-06-06,Asaba,SKU-005,Peak Milk Tin 400g,Beverages,,1349.68,187.0
+2026-06-06,ASABA,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,21.0,10643.15,373.0
+2026-06-06,Asaba,SKU-006,Coca-Cola PET 50cl (Pack of 12),Beverages,12.0,4898.26,150.0
+2026-06-06,Asaba ,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,10.0,4027.41,56.0
+2026-06-06,ASABA,SKU-011,Omo Detergent 900g,Household,25.0,2466.65,175.0
+2026-06-06,asaba,SKU-001,Golden Penny Semovita 1kg,Packaged Foods,,1446.57,124.0
+2026-06-06,Asaba,SKU-015,Close-Up Toothpaste 140g,Personal Care,16.0,890.22,117.0
+2026-06-06,asaba,SKU-013,Dettol Antiseptic 500ml,Household,23.0,1946.87,11.0
+2026-06-06,ASABA,SKU-017,Always Ultra Pads (Pack of 8),Personal Care,21.0,1347.28,154.0
+2026-06-06,ASABA,SKU-022,Mama Gold Rice 5kg,Packaged Foods,16.0,6386.07,260.0
+2026-06-06,Asaba,SKU-020,Lipton Yellow Label Tea (100 bags),Beverages,24.0,2340.81,188.0
+2026-06-06,Asaba,SKU-024,Hypo Bleach 750ml,Household,13.0,887.2,324.0
+2026-06-06,asaba,SKU-019,Cowbell Milk Powder 400g,Beverages,20.0,2071.38,273.0
+2026-06-06,Asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,20.0,11337.94,251.0
+2026-06-06,Asaba,SKU-025,Maggi Cubes (Pack of 50),Packaged Foods,15.0,1828.6,60.0
+2026-06-06,ASABA,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,15.0,8189.31,126.0
+2026-06-06,Asaba ,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,10.0,4027.41,56.0
+2026-06-06,Asaba ,SKU-016,Dudu-Osun Black Soap (Pack of 6),Personal Care,12.0,1195.99,235.0
+2026-06-06,Asaba ,SKU-021,Honeywell Semolina 1kg,Packaged Foods,19.0,1389.19,88.0

@@ -1,0 +1,19 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+2026-06-03,Asaba,SKU-014,Ariel Detergent 900g,Household,14.0,2816.79,123.0
+2026-06-03,asaba,SKU-007,Bigi Cola 50cl (Pack of 12),Beverages,13.0,3840.06,169.0
+2026-06-03,Asaba ,SKU-023,Power Oil Vegetable Oil 4.5L,Packaged Foods,14.0,11321.24,305.0
+2026-06-03,asaba,SKU-015,Close-Up Toothpaste 140g,Personal Care,,846.74,194.0
+2026-06-03,Asaba ,SKU-012,Sunlight Dishwashing Liquid 900ml,Household,17.0,1552.04,57.0
+2026-06-03,asaba,SKU-013,Dettol Antiseptic 500ml,Household,17.0,1937.21,52.0
+2026-06-03,Asaba,SKU-005,Peak Milk Tin 400g,Beverages,23.0,1362.16,149.0
+2026-06-03,ASABA,SKU-011,Omo Detergent 900g,Household,22.0,,37.0
+2026-06-03,Asaba ,SKU-018,Nivea Body Lotion 400ml,Personal Care,9.0,2968.22,20.0
+2026-06-03,ASABA,SKU-019,Cowbell Milk Powder 400g,Beverages,19.0,2143.77,293.0
+2026-06-03,asaba,SKU-009,Kings Vegetable Oil 5L,Packaged Foods,16.0,12024.96,96.0
+2026-06-03,ASABA,SKU-010, DEVON KING'S VEGETABLE OIL 3L ,Packaged Foods,12.0,7324.61,375.0
+2026-06-03,asaba,SKU-017,Always Ultra Pads (Pack of 8),Personal Care,18.0,1334.67,226.0
+2026-06-03,Asaba ,SKU-016,Dudu-Osun Black Soap (Pack of 6),Personal Care,20.0,1179.3,378.0
+2026-06-03,Asaba,SKU-021,Honeywell Semolina 1kg,Packaged Foods,26.0,1416.26,171.0
+2026-06-03,Asaba,SKU-020,Lipton Yellow Label Tea (100 bags),Beverages,9.0,2395.7,148.0
+2026-06-03,asaba,SKU-003,Indomie Chicken Noodles (Carton),Packaged Foods,19.0,8550.66,178.0
+2026-06-03,ASABA,SKU-024,Hypo Bleach 750ml,Household,14.0,937.92,98.0

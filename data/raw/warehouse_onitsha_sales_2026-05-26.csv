@@ -1,0 +1,13 @@
+date,warehouse_region,sku_code,product_name,category,qty_sold,unit_price,closing_stock
+26-May-2026,onitsha,sku_011, OMO DETERGENT 900G ,Household,16.0,2454.77,
+26-May-2026,onitsha,sku_013,Dettol Antiseptic 500ml,Household,17.0,1877.87,0.0
+26-May-2026,onitsha,sku_015,Close-Up Toothpaste 140g,Personal Care,25.0,888.49,17.0
+26-May-2026,onitsha,sku_007,Bigi Cola 50cl (Pack of 12),Beverages,-15.0,3871.09,204.0
+26-May-2026,Onitsha,sku_005, PEAK MILK TIN 400G ,Beverages,29.0,1322.88,19.0
+26-May-2026,ONITSHA,sku_002,Dangote Sugar 1kg,Packaged Foods,18.0,969.34,178.0
+26-May-2026,Onitsha,sku_023,Power Oil Vegetable Oil 4.5L,Packaged Foods,18.0,10615.02,178.0
+26-May-2026,ONITSHA,sku_006,Coca-Cola PET 50cl (Pack of 12),Beverages,20.0,4797.58,160.0
+26-May-2026,ONITSHA,sku_022,Mama Gold Rice 5kg,Packaged Foods,17.0,6692.73,7.0
+26-May-2026,Onitsha,sku_018,Nivea Body Lotion 400ml,Personal Care,22.0,3064.55,69.0
+26-May-2026,onitsha,sku_025,Maggi Cubes (Pack of 50),Packaged Foods,20.0,1876.82,22.0
+26-May-2026,ONITSHA,sku_001,Golden Penny Semovita 1kg,Packaged Foods,19.0,1429.0,32.0
